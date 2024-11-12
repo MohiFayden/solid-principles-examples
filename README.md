@@ -10,11 +10,11 @@ Learn more about these principles with detailed explanations and walkthroughs on
 
 1. **Single Responsibility Principle (SRP)**  
    *A class should have only one reason to change.*  
-   [Python Example](./src/python/single_responsibility_principle.py) | [Kotlin Example](./src/kotlin/SingleResponsibilityPrinciple.kt) | [Watch Video](https://youtu.be/I9QvtffDp2M?si=pabA8Qh_FYAcrg3Q)
+   [Python Example](./src/python/single_responsibility_principle.py) | [Kotlin Example](./src/kotlin/SingleResponsibilityPrinciple.kt) | [Watch Video](https://www.youtube.com/watch?v=I9QvtffDp2M)
 
 2. **Open/Closed Principle (OCP)**  
    *A class should be open for extension, but closed for modification.*  
-   [Python Example](./src/python/open_closed_principle.py) | [Kotlin Example](./src/kotlin/OpenClosedPrinciple.kt) | [Watch Video](https://www.youtube.com/@MohiFayden)
+   [Python Example](./src/python/open_closed_principle.py) | [Kotlin Example](./src/kotlin/OpenClosedPrinciple.kt) | [Watch Video](https://www.youtube.com/watch?v=gOTIfVqxpKA)
 
 3. **Liskov Substitution Principle (LSP)**  
    *Derived classes should be substitutable for their base classes.*  
