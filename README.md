@@ -18,7 +18,7 @@ Learn more about these principles with detailed explanations and walkthroughs on
 
 3. **Liskov Substitution Principle (LSP)**  
    *Derived classes should be substitutable for their base classes.*  
-   [Python Example](./src/python/liskov_substitution_principle.py) | [Kotlin Example](./src/kotlin/LiskovSubstitutionPrinciple.kt) | [Watch Video](https://www.youtube.com/@MohiFayden)
+   [Python Example](./src/python/liskov_substitution_principle.py) | [Kotlin Example](./src/kotlin/LiskovSubstitutionPrinciple.kt) | [Watch Video](https://www.youtube.com/watch?v=cIA1V9JA-y0)
 
 4. **Interface Segregation Principle (ISP)**  
    *A client should not be forced to depend on methods it does not use.*  
