@@ -22,7 +22,7 @@ Learn more about these principles with detailed explanations and walkthroughs on
 
 4. **Interface Segregation Principle (ISP)**  
    *A client should not be forced to depend on methods it does not use.*  
-   [Python Example](./src/python/interface_segregation_principle.py) | [Kotlin Example](./src/kotlin/InterfaceSegregationPrinciple.kt) | [Watch Video](https://www.youtube.com/@MohiFayden)
+   [Python Example](./src/python/interface_segregation_principle.py) | [Kotlin Example](./src/kotlin/InterfaceSegregationPrinciple.kt) | [Watch Video](https://www.youtube.com/watch?v=bGFFl-5Av6M)
 
 5. **Dependency Inversion Principle (DIP)**  
    *Depend on abstractions, not on concretions.*  
