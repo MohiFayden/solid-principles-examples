@@ -26,7 +26,7 @@ Learn more about these principles with detailed explanations and walkthroughs on
 
 5. **Dependency Inversion Principle (DIP)**  
    *Depend on abstractions, not on concretions.*  
-   [Python Example](./src/python/dependency_inversion_principle.py) | [Kotlin Example](./src/kotlin/DependencyInversionPrinciple.kt) | [Watch Video](https://www.youtube.com/@MohiFayden)
+   [Python Example](./src/python/dependency_inversion_principle.py) | [Kotlin Example](./src/kotlin/DependencyInversionPrinciple.kt) | [Watch Video](https://www.youtube.com/watch?v=a5TcWwyA1K0)
 
 ## Repository Structure
 
